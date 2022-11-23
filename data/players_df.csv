@@ -18254,6 +18254,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,133368,Ethan Bristow,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,133368,Ethan Bristow,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,133368,Ethan Bristow,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,133368,Ethan Bristow,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,128729,Jake Burton,612,Colchester,tpg860708,4,League Two,H,2022-08-27,2,0,1,0,0
 2022/23,155,128729,Jake Burton,1537,Leyton Orient,tpg860716,4,League Two,A,2022-09-03,0,2,0,0,0
 2022/23,155,128729,Jake Burton,234,Bradford,tpg860744,4,League Two,H,2022-09-13,1,2,0,0,0
@@ -18304,6 +18305,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,103555,Josh Dacres-Cogley,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,103555,Josh Dacres-Cogley,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,103555,Josh Dacres-Cogley,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,103555,Josh Dacres-Cogley,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,76807,Tom Davies,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,1,0
 2022/23,155,76807,Tom Davies,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,76807,Tom Davies,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,1,0
@@ -18349,6 +18351,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,101331,Josh Hawkes,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,101331,Josh Hawkes,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,1,0,0
 2022/23,155,101331,Josh Hawkes,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,1,0
+2022/23,155,101331,Josh Hawkes,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,58504,Kane Hemmings,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,1,0,0
 2022/23,155,58504,Kane Hemmings,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,1,0
 2022/23,155,58504,Kane Hemmings,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
@@ -18372,11 +18375,13 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,58504,Kane Hemmings,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,58504,Kane Hemmings,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,58504,Kane Hemmings,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,58504,Kane Hemmings,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,1,0
 2022/23,155,96403,Mateusz Hewelt,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
 2022/23,155,96403,Mateusz Hewelt,1823,Newcastle,tpg869121,60,EFL Cup,H,2022-08-24,1,2,0,0,0
 2022/23,155,96403,Mateusz Hewelt,354,Bolton,tpg864060,70,Football League Trophy,H,2022-09-20,2,2,0,0,0
 2022/23,155,96403,Mateusz Hewelt,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,0,0
 2022/23,155,96403,Mateusz Hewelt,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
+2022/23,155,96403,Mateusz Hewelt,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,162707,Ben Hockenhull,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
 2022/23,155,144033,Rhys Hughes,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
 2022/23,155,144033,Rhys Hughes,612,Colchester,tpg860708,4,League Two,H,2022-08-27,2,0,0,0,0
@@ -18391,6 +18396,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,144033,Rhys Hughes,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
 2022/23,155,144033,Rhys Hughes,1222,Harrogate,tpg860811,4,League Two,A,2022-10-22,1,1,0,0,0
 2022/23,155,144033,Rhys Hughes,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
+2022/23,155,144033,Rhys Hughes,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,108098,Kyle Jameson,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,108098,Kyle Jameson,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,108098,Kyle Jameson,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
@@ -18421,6 +18427,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,71462,Paul Lewis,2473,Stockport,tpg860732,4,League Two,H,2022-11-01,0,0,0,0,0
 2022/23,155,71462,Paul Lewis,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,71462,Paul Lewis,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,71462,Paul Lewis,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,165325,Arthur Lomax,354,Bolton,tpg864060,70,Football League Trophy,H,2022-09-20,2,2,0,1,0
 2022/23,155,165325,Arthur Lomax,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,0,0
 2022/23,155,165325,Arthur Lomax,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
@@ -18459,6 +18466,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,104921,Chris Merrie,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,104921,Chris Merrie,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,104921,Chris Merrie,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,104921,Chris Merrie,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,1,0
 2022/23,155,68138,Kieron Morris,4880,Salford,tpg860755,4,League Two,A,2022-09-17,1,0,0,0,0
 2022/23,155,68138,Kieron Morris,354,Bolton,tpg864060,70,Football League Trophy,H,2022-09-20,2,2,1,0,0
 2022/23,155,68138,Kieron Morris,2737,Walsall,tpg860769,4,League Two,A,2022-09-24,1,0,0,0,0
@@ -18473,6 +18481,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,68138,Kieron Morris,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,68138,Kieron Morris,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,68138,Kieron Morris,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,68138,Kieron Morris,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,104933,Joel Mumbongo,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
 2022/23,155,104933,Joel Mumbongo,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
 2022/23,155,104933,Joel Mumbongo,1190,Hartlepool,tpg860681,4,League Two,A,2022-08-16,0,0,0,0,0
@@ -18500,6 +18509,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,140587,Elliott Nevitt,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,140587,Elliott Nevitt,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,1,0
 2022/23,155,140587,Elliott Nevitt,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,140587,Elliott Nevitt,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,61258,Jon Nolan,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,61258,Jon Nolan,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,61258,Jon Nolan,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
@@ -18510,6 +18520,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,61258,Jon Nolan,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,1,0
 2022/23,155,61258,Jon Nolan,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
 2022/23,155,61258,Jon Nolan,643,Carlisle,tpg860840,4,League Two,H,2022-10-29,0,2,0,0,0
+2022/23,155,61258,Jon Nolan,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,117422,Lee O'Connor,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,117422,Lee O'Connor,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,117422,Lee O'Connor,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
@@ -18531,6 +18542,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,117422,Lee O'Connor,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,117422,Lee O'Connor,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
 2022/23,155,117422,Lee O'Connor,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
+2022/23,155,117422,Lee O'Connor,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,133373,Luke Robinson,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,133373,Luke Robinson,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,133373,Luke Robinson,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
@@ -18549,6 +18561,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,125460,Dynel Simeu,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,125460,Dynel Simeu,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,1,0
 2022/23,155,125460,Dynel Simeu,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,1
+2022/23,155,125460,Dynel Simeu,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
 2022/23,155,165326,Samuel Taylor,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,0,0
 2022/23,155,165326,Samuel Taylor,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
 2022/23,155,165326,Samuel Taylor,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
@@ -18570,3 +18583,4 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,76981,Jordan Turnbull,643,Carlisle,tpg860840,4,League Two,H,2022-10-29,0,2,0,0,0
 2022/23,155,76981,Jordan Turnbull,2473,Stockport,tpg860732,4,League Two,H,2022-11-01,0,0,0,0,0
 2022/23,155,76981,Jordan Turnbull,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,1,1
+2022/23,155,76981,Jordan Turnbull,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,1,1,0
