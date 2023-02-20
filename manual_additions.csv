@@ -1,13 +1,13 @@
 season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_game_id,sb_competition_id,competition_text,venue,game_date,goals_for,goals_against,pl_goals,yellow_cards,red_cards
-1997/98,127,4733,Alan Mahon,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,5361,Micky Mellon,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,3990,Lee Jones,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,7898,Andy Thompson,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,3810,Kenny Irons,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,5121,John McGreal,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,5618,John Morrissey,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,5912,Liam O'Brien,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,10723,Steve Simonsen,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,917,Graham Branch,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,7606,Gary Stevens,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
-1997/98,127,7940,Andy Thorn,234,Bradford,246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,4733,Alan Mahon,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,5361,Micky Mellon,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,3990,Lee Jones,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,7898,Andy Thompson,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,3810,Kenny Irons,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,5121,John McGreal,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,5618,John Morrissey,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,5912,Liam O'Brien,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,10723,Steve Simonsen,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,917,Graham Branch,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,7606,Gary Stevens,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
+1997/98,127,7940,Andy Thorn,234,Bradford,tpg246321,2.0,Football League Div 1,A,1997-11-15,1,0,0,0,0
