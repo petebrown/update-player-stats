@@ -161,4 +161,8 @@ df = pd.DataFrame(all_players, columns = ['season',
                                  'yellow_cards',
                                  'red_cards'])
 
+manual_additions = pd.read_csv("manual_additions.csv", parse_dates=["game_date"])
+
+df = pd.concat([df, manual_additions])
+
 df.to_csv('./data/players_df.csv', index = False)

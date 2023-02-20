@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "update-player-stats"
+version = "0.1.0"
+description = "Scripts to scrape and update player appearance data"
+authors = ["Pete Brown <15838790+petebrown@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "update_player_stats"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.11.2"
+pandas = "^1.5.3"
+requests = "^2.28.2"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
