@@ -18593,11 +18593,6 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,96403,Mateusz Hewelt,4194,AFC W'bledon,tpg861166,4,League Two,A,2023-04-29,1,1,0,0,0
 2022/23,155,96403,Mateusz Hewelt,1867,Northampton,tpg861188,4,League Two,H,2023-05-08,0,1,0,0,0
 2022/23,155,162707,Ben Hockenhull,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
-2022/23,155,115876,Florent Hoti,643,Carlisle,tpg861106,4,League Two,A,2023-04-07,0,2,0,0,0
-2022/23,155,115876,Florent Hoti,2519,Swindon,tpg861128,4,League Two,H,2023-04-10,1,0,0,0,0
-2022/23,155,115876,Florent Hoti,2175,Rochdale,tpg861149,4,League Two,A,2023-04-18,2,2,0,0,0
-2022/23,155,115876,Florent Hoti,1148,Grimsby,tpg861164,4,League Two,H,2023-04-22,2,0,0,0,0
-2022/23,155,115876,Florent Hoti,4194,AFC W'bledon,tpg861166,4,League Two,A,2023-04-29,1,1,0,0,0
 2022/23,155,144033,Rhys Hughes,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
 2022/23,155,144033,Rhys Hughes,612,Colchester,tpg860708,4,League Two,H,2022-08-27,2,0,0,0,0
 2022/23,155,144033,Rhys Hughes,1537,Leyton Orient,tpg860716,4,League Two,A,2022-09-03,0,2,0,0,0
@@ -18621,20 +18616,6 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,144033,Rhys Hughes,1148,Grimsby,tpg861164,4,League Two,H,2023-04-22,2,0,1,0,0
 2022/23,155,144033,Rhys Hughes,4194,AFC W'bledon,tpg861166,4,League Two,A,2023-04-29,1,1,0,0,0
 2022/23,155,144033,Rhys Hughes,1867,Northampton,tpg861188,4,League Two,H,2023-05-08,0,1,0,0,0
-2022/23,155,108098,Kyle Jameson,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
-2022/23,155,108098,Kyle Jameson,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
-2022/23,155,108098,Kyle Jameson,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
-2022/23,155,108098,Kyle Jameson,1190,Hartlepool,tpg860681,4,League Two,A,2022-08-16,0,0,0,1,0
-2022/23,155,108098,Kyle Jameson,1824,Newport Co,tpg860695,4,League Two,A,2022-08-20,1,2,0,0,0
-2022/23,155,108098,Kyle Jameson,1823,Newcastle,tpg869121,60,EFL Cup,H,2022-08-24,1,2,0,0,0
-2022/23,155,108098,Kyle Jameson,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,1,0
-2022/23,155,108098,Kyle Jameson,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,1,0
-2022/23,155,108098,Kyle Jameson,2473,Stockport,tpg860732,4,League Two,H,2022-11-01,0,0,0,0,0
-2022/23,155,108098,Kyle Jameson,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
-2022/23,155,108098,Kyle Jameson,234,Bradford,tpg861010,4,League Two,A,2023-02-14,0,2,0,0,0
-2022/23,155,108098,Kyle Jameson,1723,Mansfield,tpg861032,4,League Two,H,2023-02-18,0,2,0,0,0
-2022/23,155,108098,Kyle Jameson,2499,Stevenage,tpg861044,4,League Two,A,2023-02-25,1,0,0,0,0
-2022/23,155,108098,Kyle Jameson,1098,Gillingham,tpg861063,4,League Two,A,2023-03-11,0,2,0,0,0
 2022/23,155,71462,Paul Lewis,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,71462,Paul Lewis,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,71462,Paul Lewis,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
@@ -18687,43 +18668,6 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,125105,Reece McAlear,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
 2022/23,155,125105,Reece McAlear,800,Doncaster,tpg860913,4,League Two,H,2022-12-26,3,0,0,0,0
 2022/23,155,125105,Reece McAlear,2496,Sutton Utd,tpg860949,4,League Two,H,2023-01-07,2,2,0,0,0
-2022/23,155,104921,Chris Merrie,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
-2022/23,155,104921,Chris Merrie,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
-2022/23,155,104921,Chris Merrie,1190,Hartlepool,tpg860681,4,League Two,A,2022-08-16,0,0,0,0,0
-2022/23,155,104921,Chris Merrie,1824,Newport Co,tpg860695,4,League Two,A,2022-08-20,1,2,0,0,0
-2022/23,155,104921,Chris Merrie,354,Bolton,tpg864060,70,Football League Trophy,H,2022-09-20,2,2,0,0,0
-2022/23,155,104921,Chris Merrie,2737,Walsall,tpg860769,4,League Two,A,2022-09-24,1,0,0,0,0
-2022/23,155,104921,Chris Merrie,392,Barrow,tpg860781,4,League Two,H,2022-10-01,1,0,0,1,0
-2022/23,155,104921,Chris Merrie,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,0,0
-2022/23,155,104921,Chris Merrie,2496,Sutton Utd,tpg860792,4,League Two,A,2022-10-08,2,0,0,1,0
-2022/23,155,104921,Chris Merrie,652,Crewe,tpg860805,4,League Two,H,2022-10-14,3,0,0,1,0
-2022/23,155,104921,Chris Merrie,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
-2022/23,155,104921,Chris Merrie,1222,Harrogate,tpg860811,4,League Two,A,2022-10-22,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,2175,Rochdale,tpg860828,4,League Two,H,2022-10-25,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,643,Carlisle,tpg860840,4,League Two,H,2022-10-29,0,2,0,0,0
-2022/23,155,104921,Chris Merrie,2473,Stockport,tpg860732,4,League Two,H,2022-11-01,0,0,0,0,0
-2022/23,155,104921,Chris Merrie,643,Carlisle,tpg871069,58,FA Cup,A,2022-11-05,1,2,0,0,0
-2022/23,155,104921,Chris Merrie,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,4194,AFC W'bledon,tpg860864,4,League Two,H,2022-11-19,0,2,0,0,0
-2022/23,155,104921,Chris Merrie,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,1,0
-2022/23,155,104921,Chris Merrie,1867,Northampton,tpg860875,4,League Two,A,2022-12-03,0,0,0,0,0
-2022/23,155,104921,Chris Merrie,1148,Grimsby,tpg860882,4,League Two,A,2022-12-10,1,2,0,0,0
-2022/23,155,104921,Chris Merrie,800,Doncaster,tpg860913,4,League Two,H,2022-12-26,3,0,0,0,0
-2022/23,155,104921,Chris Merrie,392,Barrow,tpg860914,4,League Two,A,2022-12-29,2,1,0,0,0
-2022/23,155,104921,Chris Merrie,652,Crewe,tpg860929,4,League Two,A,2023-01-01,0,1,0,0,0
-2022/23,155,104921,Chris Merrie,2496,Sutton Utd,tpg860949,4,League Two,H,2023-01-07,2,2,0,0,0
-2022/23,155,104921,Chris Merrie,2737,Walsall,tpg860961,4,League Two,H,2023-01-14,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,1537,Leyton Orient,tpg860984,4,League Two,H,2023-01-28,1,0,0,0,0
-2022/23,155,104921,Chris Merrie,2473,Stockport,tpg860996,4,League Two,A,2023-02-04,2,3,0,0,0
-2022/23,155,104921,Chris Merrie,4880,Salford,tpg861008,4,League Two,H,2023-02-11,1,0,0,0,0
-2022/23,155,104921,Chris Merrie,2499,Stevenage,tpg861044,4,League Two,A,2023-02-25,1,0,0,0,0
-2022/23,155,104921,Chris Merrie,649,Crawley,tpg860900,4,League Two,H,2023-02-28,1,0,0,0,0
-2022/23,155,104921,Chris Merrie,1190,Hartlepool,tpg861056,4,League Two,H,2023-03-04,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,1098,Gillingham,tpg861063,4,League Two,A,2023-03-11,0,2,0,0,0
-2022/23,155,104921,Chris Merrie,1824,Newport Co,tpg861080,4,League Two,H,2023-03-18,1,3,0,0,0
-2022/23,155,104921,Chris Merrie,612,Colchester,tpg861083,4,League Two,A,2023-03-25,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,1222,Harrogate,tpg861104,4,League Two,H,2023-03-31,1,1,0,0,0
-2022/23,155,104921,Chris Merrie,643,Carlisle,tpg861106,4,League Two,A,2023-04-07,0,2,0,0,0
 2022/23,155,68138,Kieron Morris,4880,Salford,tpg860755,4,League Two,A,2022-09-17,1,0,0,0,0
 2022/23,155,68138,Kieron Morris,354,Bolton,tpg864060,70,Football League Trophy,H,2022-09-20,2,2,1,0,0
 2022/23,155,68138,Kieron Morris,2737,Walsall,tpg860769,4,League Two,A,2022-09-24,1,0,0,0,0
@@ -18771,13 +18715,6 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,104933,Joel Mumbongo,1222,Harrogate,tpg861104,4,League Two,H,2023-03-31,1,1,0,0,0
 2022/23,155,104933,Joel Mumbongo,643,Carlisle,tpg861106,4,League Two,A,2023-04-07,0,2,0,0,0
 2022/23,155,104933,Joel Mumbongo,1867,Northampton,tpg861188,4,League Two,H,2023-05-08,0,1,0,0,0
-2022/23,155,15110,Joe Murphy,1723,Mansfield,tpg861032,4,League Two,H,2023-02-18,0,2,0,0,0
-2022/23,155,15110,Joe Murphy,2499,Stevenage,tpg861044,4,League Two,A,2023-02-25,1,0,0,0,0
-2022/23,155,15110,Joe Murphy,649,Crawley,tpg860900,4,League Two,H,2023-02-28,1,0,0,0,0
-2022/23,155,15110,Joe Murphy,1190,Hartlepool,tpg861056,4,League Two,H,2023-03-04,1,1,0,0,0
-2022/23,155,15110,Joe Murphy,1098,Gillingham,tpg861063,4,League Two,A,2023-03-11,0,2,0,0,0
-2022/23,155,15110,Joe Murphy,1824,Newport Co,tpg861080,4,League Two,H,2023-03-18,1,3,0,0,0
-2022/23,155,15110,Joe Murphy,612,Colchester,tpg861083,4,League Two,A,2023-03-25,1,1,0,1,0
 2022/23,155,140587,Elliott Nevitt,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,140587,Elliott Nevitt,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,140587,Elliott Nevitt,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,1,0,0
@@ -18806,18 +18743,6 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,140587,Elliott Nevitt,1867,Northampton,tpg860875,4,League Two,A,2022-12-03,0,0,0,0,0
 2022/23,155,140587,Elliott Nevitt,652,Crewe,tpg860929,4,League Two,A,2023-01-01,0,1,0,0,0
 2022/23,155,140587,Elliott Nevitt,2496,Sutton Utd,tpg860949,4,League Two,H,2023-01-07,2,2,0,0,0
-2022/23,155,61258,Jon Nolan,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
-2022/23,155,61258,Jon Nolan,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
-2022/23,155,61258,Jon Nolan,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
-2022/23,155,61258,Jon Nolan,1824,Newport Co,tpg860695,4,League Two,A,2022-08-20,1,2,0,0,0
-2022/23,155,61258,Jon Nolan,1823,Newcastle,tpg869121,60,EFL Cup,H,2022-08-24,1,2,0,0,0
-2022/23,155,61258,Jon Nolan,612,Colchester,tpg860708,4,League Two,H,2022-08-27,2,0,0,0,0
-2022/23,155,61258,Jon Nolan,1537,Leyton Orient,tpg860716,4,League Two,A,2022-09-03,0,2,0,0,0
-2022/23,155,61258,Jon Nolan,7141,Leeds U21,tpg864058,70,Football League Trophy,H,2022-10-04,3,5,0,1,0
-2022/23,155,61258,Jon Nolan,652,Crewe,tpg864061,70,Football League Trophy,A,2022-10-18,1,0,0,0,0
-2022/23,155,61258,Jon Nolan,643,Carlisle,tpg860840,4,League Two,H,2022-10-29,0,2,0,0,0
-2022/23,155,61258,Jon Nolan,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,0,0,0
-2022/23,155,61258,Jon Nolan,652,Crewe,tpg860929,4,League Two,A,2023-01-01,0,1,0,0,0
 2022/23,155,117422,Lee O'Connor,2499,Stevenage,tpg859352,4,League Two,H,2022-07-30,1,2,0,0,0
 2022/23,155,117422,Lee O'Connor,1723,Mansfield,tpg860658,4,League Two,A,2022-08-06,0,1,0,0,0
 2022/23,155,117422,Lee O'Connor,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
@@ -18909,48 +18834,6 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2022/23,155,165326,Samuel Taylor,649,Crawley,tpg861131,4,League Two,A,2023-04-15,1,2,0,0,0
 2022/23,155,165326,Samuel Taylor,4194,AFC W'bledon,tpg861166,4,League Two,A,2023-04-29,1,1,1,0,0
 2022/23,155,165326,Samuel Taylor,1867,Northampton,tpg861188,4,League Two,H,2023-05-08,0,1,0,0,0
-2022/23,155,76981,Jordan Turnbull,42,Accrington,tpg861839,60,EFL Cup,A,2022-08-09,2,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,1098,Gillingham,tpg860672,4,League Two,H,2022-08-13,3,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,1190,Hartlepool,tpg860681,4,League Two,A,2022-08-16,0,0,0,1,0
-2022/23,155,76981,Jordan Turnbull,1824,Newport Co,tpg860695,4,League Two,A,2022-08-20,1,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,1823,Newcastle,tpg869121,60,EFL Cup,H,2022-08-24,1,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,612,Colchester,tpg860708,4,League Two,H,2022-08-27,2,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,1537,Leyton Orient,tpg860716,4,League Two,A,2022-09-03,0,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,234,Bradford,tpg860744,4,League Two,H,2022-09-13,1,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,4880,Salford,tpg860755,4,League Two,A,2022-09-17,1,0,0,1,0
-2022/23,155,76981,Jordan Turnbull,2737,Walsall,tpg860769,4,League Two,A,2022-09-24,1,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,392,Barrow,tpg860781,4,League Two,H,2022-10-01,1,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,2496,Sutton Utd,tpg860792,4,League Two,A,2022-10-08,2,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,652,Crewe,tpg860805,4,League Two,H,2022-10-14,3,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,1222,Harrogate,tpg860811,4,League Two,A,2022-10-22,1,1,1,1,0
-2022/23,155,76981,Jordan Turnbull,2175,Rochdale,tpg860828,4,League Two,H,2022-10-25,1,1,0,0,0
-2022/23,155,76981,Jordan Turnbull,643,Carlisle,tpg860840,4,League Two,H,2022-10-29,0,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,2473,Stockport,tpg860732,4,League Two,H,2022-11-01,0,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,2519,Swindon,tpg860853,4,League Two,A,2022-11-12,1,1,0,1,1
-2022/23,155,76981,Jordan Turnbull,427,Burton,tpg871310,70,Football League Trophy,A,2022-11-22,1,1,1,1,0
-2022/23,155,76981,Jordan Turnbull,800,Doncaster,tpg860913,4,League Two,H,2022-12-26,3,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,392,Barrow,tpg860914,4,League Two,A,2022-12-29,2,1,1,1,0
-2022/23,155,76981,Jordan Turnbull,652,Crewe,tpg860929,4,League Two,A,2023-01-01,0,1,0,0,0
-2022/23,155,76981,Jordan Turnbull,2496,Sutton Utd,tpg860949,4,League Two,H,2023-01-07,2,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,2737,Walsall,tpg860961,4,League Two,H,2023-01-14,1,1,0,1,0
-2022/23,155,76981,Jordan Turnbull,1537,Leyton Orient,tpg860984,4,League Two,H,2023-01-28,1,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,2473,Stockport,tpg860996,4,League Two,A,2023-02-04,2,3,0,0,0
-2022/23,155,76981,Jordan Turnbull,800,Doncaster,tpg860966,4,League Two,A,2023-02-07,0,2,0,1,0
-2022/23,155,76981,Jordan Turnbull,4880,Salford,tpg861008,4,League Two,H,2023-02-11,1,0,0,1,0
-2022/23,155,76981,Jordan Turnbull,2499,Stevenage,tpg861044,4,League Two,A,2023-02-25,1,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,649,Crawley,tpg860900,4,League Two,H,2023-02-28,1,0,1,0,0
-2022/23,155,76981,Jordan Turnbull,1190,Hartlepool,tpg861056,4,League Two,H,2023-03-04,1,1,0,0,0
-2022/23,155,76981,Jordan Turnbull,1098,Gillingham,tpg861063,4,League Two,A,2023-03-11,0,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,1824,Newport Co,tpg861080,4,League Two,H,2023-03-18,1,3,0,0,0
-2022/23,155,76981,Jordan Turnbull,612,Colchester,tpg861083,4,League Two,A,2023-03-25,1,1,0,1,0
-2022/23,155,76981,Jordan Turnbull,1222,Harrogate,tpg861104,4,League Two,H,2023-03-31,1,1,0,1,0
-2022/23,155,76981,Jordan Turnbull,643,Carlisle,tpg861106,4,League Two,A,2023-04-07,0,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,2519,Swindon,tpg861128,4,League Two,H,2023-04-10,1,0,0,0,0
-2022/23,155,76981,Jordan Turnbull,649,Crawley,tpg861131,4,League Two,A,2023-04-15,1,2,0,1,0
-2022/23,155,76981,Jordan Turnbull,2175,Rochdale,tpg861149,4,League Two,A,2023-04-18,2,2,0,0,0
-2022/23,155,76981,Jordan Turnbull,1148,Grimsby,tpg861164,4,League Two,H,2023-04-22,2,0,0,1,0
-2022/23,155,76981,Jordan Turnbull,4194,AFC W'bledon,tpg861166,4,League Two,A,2023-04-29,1,1,0,0,0
-2022/23,155,76981,Jordan Turnbull,1867,Northampton,tpg861188,4,League Two,H,2023-05-08,0,1,0,0,0
 2022/23,155,144533,Jay Turner-Cook,4880,Salford,tpg861008,4,League Two,H,2023-02-11,1,0,0,0,0
 2022/23,155,144533,Jay Turner-Cook,234,Bradford,tpg861010,4,League Two,A,2023-02-14,0,2,0,0,0
 2022/23,155,144533,Jay Turner-Cook,1723,Mansfield,tpg861032,4,League Two,H,2023-02-18,0,2,0,0,0
