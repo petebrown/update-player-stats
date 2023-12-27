@@ -18985,6 +18985,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,136092,Robert Apter,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,136092,Robert Apter,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,136092,Robert Apter,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,136092,Robert Apter,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,137278,Jean Belehouan,6534,Leicester U21,tpg893911,70,Football League Trophy,H,2023-10-10,0,1,0,0,0
 2023/24,156,137278,Jean Belehouan,2783,Wigan,tpg893938,70,Football League Trophy,H,2023-11-14,0,0,0,0,0
 2023/24,156,137278,Jean Belehouan,1723,Mansfield,tpg882549,4,League Two,A,2023-11-28,2,2,0,0,0
@@ -19013,6 +19014,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,76807,Tom Davies,1723,Mansfield,tpg882549,4,League Two,A,2023-11-28,2,2,0,0,0
 2023/24,156,76807,Tom Davies,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,76807,Tom Davies,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,1,0,0
+2023/24,156,76807,Tom Davies,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,181422,Mikey Davies,2783,Wigan,tpg893938,70,Football League Trophy,H,2023-11-14,0,0,0,0,0
 2023/24,156,70469,Kristian Dennis,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
 2023/24,156,70469,Kristian Dennis,208,Barnsley,tpg884352,60,English League Cup,A,2023-08-08,2,2,0,0,0
@@ -19059,6 +19061,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,101331,Josh Hawkes,1098,Gillingham,tpg882539,4,League Two,H,2023-11-25,3,1,0,0,0
 2023/24,156,101331,Josh Hawkes,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,101331,Josh Hawkes,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,101331,Josh Hawkes,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,1,0,0
 2023/24,156,58504,Kane Hemmings,208,Barnsley,tpg884352,60,English League Cup,A,2023-08-08,2,2,0,0,0
 2023/24,156,58504,Kane Hemmings,1871,Notts Co,tpg882370,4,League Two,A,2023-08-26,1,2,0,0,0
 2023/24,156,58504,Kane Hemmings,1527,Leicester,tpg894824,60,English League Cup,H,2023-08-29,0,2,0,0,0
@@ -19088,6 +19091,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,93064,Regan Hendry,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,93064,Regan Hendry,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,93064,Regan Hendry,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,93064,Regan Hendry,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,1,0,0
 2023/24,156,144033,Rhys Hughes,6534,Leicester U21,tpg893911,70,Football League Trophy,H,2023-10-10,0,1,0,0,0
 2023/24,156,144033,Rhys Hughes,2783,Wigan,tpg893938,70,Football League Trophy,H,2023-11-14,0,0,0,0,0
 2023/24,156,63609,Connor Jennings,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
@@ -19116,6 +19120,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,63609,Connor Jennings,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,1,0,0
 2023/24,156,63609,Connor Jennings,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,63609,Connor Jennings,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,1,0
+2023/24,156,63609,Connor Jennings,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,1,0,0
 2023/24,156,120094,Charlie Jolley,1222,Harrogate,tpg882348,4,League Two,H,2023-08-15,3,0,0,0,0
 2023/24,156,120094,Charlie Jolley,4880,Salford,tpg882360,4,League Two,H,2023-08-19,3,4,1,0,0
 2023/24,156,120094,Charlie Jolley,1871,Notts Co,tpg882370,4,League Two,A,2023-08-26,1,2,0,1,0
@@ -19136,6 +19141,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,120094,Charlie Jolley,1723,Mansfield,tpg882549,4,League Two,A,2023-11-28,2,2,1,0,0
 2023/24,156,120094,Charlie Jolley,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,1,0
 2023/24,156,120094,Charlie Jolley,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,120094,Charlie Jolley,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,136739,Jake Leake,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
 2023/24,156,136739,Jake Leake,208,Barnsley,tpg884352,60,English League Cup,A,2023-08-08,2,2,0,1,0
 2023/24,156,136739,Jake Leake,2812,MK Dons,tpg882331,4,League Two,A,2023-08-12,0,1,0,0,0
@@ -19170,6 +19176,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,125105,Reece McAlear,1098,Gillingham,tpg882539,4,League Two,H,2023-11-25,3,1,0,1,0
 2023/24,156,125105,Reece McAlear,1723,Mansfield,tpg882549,4,League Two,A,2023-11-28,2,2,0,0,0
 2023/24,156,125105,Reece McAlear,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
+2023/24,156,125105,Reece McAlear,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,78791,Luke McGee,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
 2023/24,156,78791,Luke McGee,2812,MK Dons,tpg882331,4,League Two,A,2023-08-12,0,1,0,0,0
 2023/24,156,78791,Luke McGee,1222,Harrogate,tpg882348,4,League Two,H,2023-08-15,3,0,0,0,0
@@ -19194,6 +19201,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,78791,Luke McGee,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,78791,Luke McGee,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,78791,Luke McGee,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,78791,Luke McGee,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,104921,Chris Merrie,1871,Notts Co,tpg882370,4,League Two,A,2023-08-26,1,2,0,0,0
 2023/24,156,104921,Chris Merrie,1527,Leicester,tpg894824,60,English League Cup,H,2023-08-29,0,2,0,1,0
 2023/24,156,104921,Chris Merrie,2859,Wrexham,tpg882384,4,League Two,H,2023-09-02,0,1,0,1,0
@@ -19228,6 +19236,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,68138,Kieron Morris,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,1,1,0
 2023/24,156,68138,Kieron Morris,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,68138,Kieron Morris,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,1,0,0
+2023/24,156,68138,Kieron Morris,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,1,0,0
 2023/24,156,15110,Joe Murphy,208,Barnsley,tpg884352,60,English League Cup,A,2023-08-08,2,2,0,0,0
 2023/24,156,15110,Joe Murphy,1527,Leicester,tpg894824,60,English League Cup,H,2023-08-29,0,2,0,0,0
 2023/24,156,15110,Joe Murphy,6534,Leicester U21,tpg893911,70,Football League Trophy,H,2023-10-10,0,1,0,0,0
@@ -19241,6 +19250,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,125532,James Norris,2499,Stevenage,tpg896358,58,English FA Cup,A,2023-11-04,3,4,0,0,0
 2023/24,156,125532,James Norris,2783,Wigan,tpg893938,70,Football League Trophy,H,2023-11-14,0,0,0,0,0
 2023/24,156,125532,James Norris,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
+2023/24,156,125532,James Norris,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,59417,Luke Norris,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
 2023/24,156,59417,Luke Norris,208,Barnsley,tpg884352,60,English League Cup,A,2023-08-08,2,2,1,0,0
 2023/24,156,59417,Luke Norris,2812,MK Dons,tpg882331,4,League Two,A,2023-08-12,0,1,0,0,0
@@ -19268,6 +19278,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,117422,Lee O'Connor,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,117422,Lee O'Connor,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,117422,Lee O'Connor,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,117422,Lee O'Connor,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,136725,Dan Pike,1527,Leicester,tpg894824,60,English League Cup,H,2023-08-29,0,2,0,0,0
 2023/24,156,136725,Dan Pike,2859,Wrexham,tpg882384,4,League Two,H,2023-09-02,0,1,0,0,0
 2023/24,156,136725,Dan Pike,990,Fleetwood,tpg893870,70,Football League Trophy,A,2023-09-05,0,2,0,1,1
@@ -19303,6 +19314,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,100535,Harvey Saunders,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,100535,Harvey Saunders,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,100535,Harvey Saunders,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,100535,Harvey Saunders,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,1,0,0
 2023/24,156,124902,Joseph Starbuck,234,Bradford,tpg882444,4,League Two,H,2023-10-03,2,1,0,0,0
 2023/24,156,124902,Joseph Starbuck,6534,Leicester U21,tpg893911,70,Football League Trophy,H,2023-10-10,0,1,0,0,0
 2023/24,156,165326,Samuel Taylor,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
@@ -19345,6 +19357,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,76981,Jordan Turnbull,1098,Gillingham,tpg882539,4,League Two,H,2023-11-25,3,1,0,0,0
 2023/24,156,76981,Jordan Turnbull,1723,Mansfield,tpg882549,4,League Two,A,2023-11-28,2,2,0,1,1
 2023/24,156,76981,Jordan Turnbull,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,76981,Jordan Turnbull,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,1,0
 2023/24,156,69329,Brad Walker,392,Barrow,tpg882324,4,League Two,H,2023-08-05,1,2,0,0,0
 2023/24,156,69329,Brad Walker,2859,Wrexham,tpg882384,4,League Two,H,2023-09-02,0,1,0,0,0
 2023/24,156,69329,Brad Walker,990,Fleetwood,tpg893870,70,Football League Trophy,A,2023-09-05,0,2,0,0,0
@@ -19363,6 +19376,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,69329,Brad Walker,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,69329,Brad Walker,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,69329,Brad Walker,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,1,0
+2023/24,156,69329,Brad Walker,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,95984,Connor Wood,612,Colchester,tpg882390,4,League Two,A,2023-09-09,0,2,0,0,0
 2023/24,156,95984,Connor Wood,649,Crawley,tpg882403,4,League Two,A,2023-09-16,2,3,0,0,0
 2023/24,156,95984,Connor Wood,234,Bradford,tpg882444,4,League Two,H,2023-10-03,2,1,0,0,0
@@ -19377,6 +19391,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,95984,Connor Wood,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,95984,Connor Wood,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,95984,Connor Wood,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,95984,Connor Wood,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
 2023/24,156,96069,Josef Yarney,208,Barnsley,tpg884352,60,English League Cup,A,2023-08-08,2,2,0,0,0
 2023/24,156,96069,Josef Yarney,4880,Salford,tpg882360,4,League Two,H,2023-08-19,3,4,0,0,0
 2023/24,156,96069,Josef Yarney,1871,Notts Co,tpg882370,4,League Two,A,2023-08-26,1,2,0,1,0
@@ -19397,3 +19412,4 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2023/24,156,96069,Josef Yarney,1824,Newport Co,tpg882565,4,League Two,H,2023-12-09,2,1,0,0,0
 2023/24,156,96069,Josef Yarney,2737,Walsall,tpg882576,4,League Two,A,2023-12-16,0,1,0,0,0
 2023/24,156,96069,Josef Yarney,2519,Swindon,tpg882588,4,League Two,H,2023-12-23,2,1,0,0,0
+2023/24,156,96069,Josef Yarney,4880,Salford,tpg882599,4,League Two,A,2023-12-26,5,1,0,0,0
