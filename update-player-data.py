@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 team_id = 2598
-season_id = 156
+season_id = 157
 
 df1 = pd.read_csv("./data/players_df.csv", parse_dates=['game_date'])
 df1 = df1[df1.season_id != season_id]
