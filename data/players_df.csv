@@ -19744,6 +19744,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,76807,Tom Davies,1527,Leicester,tpg921182,60,English League Cup,A,2024-08-27,0,4,0,1,0
 2024/25,157,76807,Tom Davies,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,76807,Tom Davies,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
+2024/25,157,76807,Tom Davies,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,126162,Josh Davison,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,126162,Josh Davison,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,126162,Josh Davison,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
@@ -19752,6 +19753,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,126162,Josh Davison,1527,Leicester,tpg921182,60,English League Cup,A,2024-08-27,0,4,0,0,0
 2024/25,157,126162,Josh Davison,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,126162,Josh Davison,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
+2024/25,157,126162,Josh Davison,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,70469,Kristian Dennis,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,70469,Kristian Dennis,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
 2024/25,157,70469,Kristian Dennis,6530,Everton U21,tpg913660,70,Football League Trophy,H,2024-08-20,1,3,0,0,0
@@ -19765,6 +19767,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,93064,Regan Hendry,2737,Walsall,tpg911892,4,Football League Two,H,2024-08-24,1,0,0,0,0
 2024/25,157,93064,Regan Hendry,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,93064,Regan Hendry,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,93064,Regan Hendry,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,63609,Connor Jennings,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,63609,Connor Jennings,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,63609,Connor Jennings,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
@@ -19774,18 +19777,21 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,63609,Connor Jennings,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,63609,Connor Jennings,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,63609,Connor Jennings,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,1,0
+2024/25,157,63609,Connor Jennings,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,144159,Josh Williams,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,1,0,0
 2024/25,157,144159,Josh Williams,6530,Everton U21,tpg913660,70,Football League Trophy,H,2024-08-20,1,3,0,0,0
 2024/25,157,144159,Josh Williams,1527,Leicester,tpg921182,60,English League Cup,A,2024-08-27,0,4,0,0,0
 2024/25,157,144159,Josh Williams,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
 2024/25,157,123720,Saidou Khan,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,123720,Saidou Khan,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,1,0
+2024/25,157,123720,Saidou Khan,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,1,0
 2024/25,157,78791,Luke McGee,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,78791,Luke McGee,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
 2024/25,157,78791,Luke McGee,2737,Walsall,tpg911892,4,Football League Two,H,2024-08-24,1,0,0,0,0
 2024/25,157,78791,Luke McGee,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,78791,Luke McGee,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,78791,Luke McGee,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,78791,Luke McGee,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,104921,Chris Merrie,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,104921,Chris Merrie,6530,Everton U21,tpg913660,70,Football League Trophy,H,2024-08-20,1,3,0,0,0
 2024/25,157,104921,Chris Merrie,1527,Leicester,tpg921182,60,English League Cup,A,2024-08-27,0,4,0,0,0
@@ -19793,6 +19799,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,104921,Chris Merrie,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
 2024/25,157,68138,Kieron Morris,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,68138,Kieron Morris,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
+2024/25,157,68138,Kieron Morris,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,15110,Joe Murphy,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,15110,Joe Murphy,6530,Everton U21,tpg913660,70,Football League Trophy,H,2024-08-20,1,3,0,0,0
 2024/25,157,15110,Joe Murphy,1527,Leicester,tpg921182,60,English League Cup,A,2024-08-27,0,4,0,0,0
@@ -19810,6 +19817,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,59417,Luke Norris,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
 2024/25,157,59417,Luke Norris,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,59417,Luke Norris,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,59417,Luke Norris,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,1,0
 2024/25,157,117422,Lee O'Connor,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,117422,Lee O'Connor,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,117422,Lee O'Connor,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,1,0
@@ -19819,6 +19827,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,117422,Lee O'Connor,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,117422,Lee O'Connor,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,117422,Lee O'Connor,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,1,0
+2024/25,157,117422,Lee O'Connor,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,89447,Omari Patrick,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,89447,Omari Patrick,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,1,0,0
 2024/25,157,89447,Omari Patrick,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
@@ -19828,6 +19837,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,89447,Omari Patrick,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,2,0,0
 2024/25,157,89447,Omari Patrick,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,89447,Omari Patrick,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,89447,Omari Patrick,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,100535,Harvey Saunders,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,100535,Harvey Saunders,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,1,0,0
 2024/25,157,100535,Harvey Saunders,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,0,0
@@ -19837,6 +19847,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,100535,Harvey Saunders,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,100535,Harvey Saunders,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,100535,Harvey Saunders,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,100535,Harvey Saunders,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
 2024/25,157,171213,Sol Solomon,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,171213,Sol Solomon,6530,Everton U21,tpg913660,70,Football League Trophy,H,2024-08-20,1,3,0,1,0
 2024/25,157,171213,Sol Solomon,2737,Walsall,tpg911892,4,Football League Two,H,2024-08-24,1,0,0,0,0
@@ -19848,6 +19859,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,76981,Jordan Turnbull,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,76981,Jordan Turnbull,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,76981,Jordan Turnbull,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,76981,Jordan Turnbull,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,1,0
 2024/25,157,69329,Brad Walker,1871,Notts Co,tpg911867,4,Football League Two,H,2024-08-10,0,0,0,0,0
 2024/25,157,69329,Brad Walker,42,Accrington,tpg913645,60,English League Cup,H,2024-08-13,3,0,0,0,0
 2024/25,157,69329,Brad Walker,2083,Port Vale,tpg911879,4,Football League Two,A,2024-08-17,0,0,0,1,0
@@ -19862,3 +19874,4 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,95984,Connor Wood,643,Carlisle,tpg911896,4,Football League Two,A,2024-08-31,2,1,0,0,0
 2024/25,157,95984,Connor Wood,1098,Gillingham,tpg911921,4,Football League Two,A,2024-09-14,0,3,0,0,0
 2024/25,157,95984,Connor Wood,612,Colchester,tpg911933,4,Football League Two,A,2024-09-21,0,3,0,0,0
+2024/25,157,95984,Connor Wood,4880,Salford,tpg911951,4,Football League Two,H,2024-09-27,0,0,0,0,0
