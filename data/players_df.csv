@@ -20524,10 +20524,12 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2024/25,157,95984,Connor Wood,392,Barrow,tpg912374,4.0,Football League Two,A,2025-04-21,0,0,0,1,0
 2024/25,157,95984,Connor Wood,652,Crewe,tpg912395,4.0,Football League Two,H,2025-04-26,2,0,0,0,0
 2024/25,157,95984,Connor Wood,1824,Newport Co,tpg912405,4.0,Football League Two,A,2025-05-03,4,1,0,0,0
+2025/26,158,124906,Jack Barrett,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,189694,Billy Blacker,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,189694,Billy Blacker,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,189694,Billy Blacker,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,189694,Billy Blacker,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,189694,Billy Blacker,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,133368,Ethan Bristow,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
 2025/26,158,133368,Ethan Bristow,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,133368,Ethan Bristow,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
@@ -20538,6 +20540,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,71332,Patrick Brough,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,1,0
 2025/26,158,71332,Patrick Brough,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,71332,Patrick Brough,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,71332,Patrick Brough,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,126162,Josh Davison,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,126162,Josh Davison,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,126162,Josh Davison,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20545,6 +20548,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,126162,Josh Davison,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,126162,Josh Davison,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,126162,Josh Davison,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,126162,Josh Davison,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,1,0,0
 2025/26,158,70469,Kristian Dennis,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,70469,Kristian Dennis,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,70469,Kristian Dennis,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20555,7 +20559,9 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,182818,Taylan Harris,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,182818,Taylan Harris,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,1,0
 2025/26,158,182818,Taylan Harris,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,182818,Taylan Harris,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,66015,Joe Ironside,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,66015,Joe Ironside,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,63609,Connor Jennings,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,1,0,0
 2025/26,158,63609,Connor Jennings,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,63609,Connor Jennings,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20563,8 +20569,10 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,63609,Connor Jennings,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,63609,Connor Jennings,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,63609,Connor Jennings,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,63609,Connor Jennings,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,171217,Jayden Joseph,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,171217,Jayden Joseph,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,171217,Jayden Joseph,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,136089,Nohan Kenneh,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,1,0
 2025/26,158,136089,Nohan Kenneh,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,136089,Nohan Kenneh,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20576,6 +20584,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,58118,Jason Lowe,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,58118,Jason Lowe,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,58118,Jason Lowe,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,58118,Jason Lowe,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,78791,Luke McGee,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,78791,Luke McGee,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,78791,Luke McGee,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20590,6 +20599,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,88887,Cameron Norman,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,88887,Cameron Norman,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,88887,Cameron Norman,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,88887,Cameron Norman,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,1,0
 2025/26,158,117422,Lee O'Connor,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,117422,Lee O'Connor,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,117422,Lee O'Connor,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20604,6 +20614,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,89447,Omari Patrick,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,1,0,0
 2025/26,158,89447,Omari Patrick,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,1,0,0
 2025/26,158,89447,Omari Patrick,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,1,0,0
+2025/26,158,89447,Omari Patrick,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,100535,Harvey Saunders,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,55835,Richard Smallwood,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,55835,Richard Smallwood,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
@@ -20612,6 +20623,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,55835,Richard Smallwood,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,1,0
 2025/26,158,55835,Richard Smallwood,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,1,0
 2025/26,158,55835,Richard Smallwood,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,55835,Richard Smallwood,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,75652,Nathan Smith,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,75652,Nathan Smith,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,75652,Nathan Smith,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20619,17 +20631,21 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,75652,Nathan Smith,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,1,0,0
 2025/26,158,75652,Nathan Smith,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,75652,Nathan Smith,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,75652,Nathan Smith,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,171213,Sol Solomon,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,1,0
 2025/26,158,171213,Sol Solomon,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,171213,Sol Solomon,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
+2025/26,158,171213,Sol Solomon,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,1,0
 2025/26,158,76981,Jordan Turnbull,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,76981,Jordan Turnbull,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,76981,Jordan Turnbull,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,76981,Jordan Turnbull,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,76981,Jordan Turnbull,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,76981,Jordan Turnbull,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,1,0,0
 2025/26,158,142753,Charlie Whitaker,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,142753,Charlie Whitaker,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
 2025/26,158,142753,Charlie Whitaker,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,1,0,0
 2025/26,158,142753,Charlie Whitaker,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,1,0
 2025/26,158,142753,Charlie Whitaker,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,142753,Charlie Whitaker,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
+2025/26,158,142753,Charlie Whitaker,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
