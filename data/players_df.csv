@@ -20533,6 +20533,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,189694,Billy Blacker,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
 2025/26,158,189694,Billy Blacker,2737,Walsall,tpg937432,4,Football League Two,A,2025-09-20,2,4,1,0,0
 2025/26,158,189694,Billy Blacker,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,189694,Billy Blacker,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,133368,Ethan Bristow,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
 2025/26,158,133368,Ethan Bristow,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,133368,Ethan Bristow,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
@@ -20549,6 +20550,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,71332,Patrick Brough,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,71332,Patrick Brough,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,1,0
 2025/26,158,71332,Patrick Brough,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,1,0
+2025/26,158,71332,Patrick Brough,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,126162,Josh Davison,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,126162,Josh Davison,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,126162,Josh Davison,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20562,9 +20564,11 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,126162,Josh Davison,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,126162,Josh Davison,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,1,0
 2025/26,158,126162,Josh Davison,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,126162,Josh Davison,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,70469,Kristian Dennis,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,70469,Kristian Dennis,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,70469,Kristian Dennis,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
+2025/26,158,81221,Sam Finley,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,182818,Taylan Harris,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,182818,Taylan Harris,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,182818,Taylan Harris,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20583,6 +20587,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,66015,Joe Ironside,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,1,0
 2025/26,158,66015,Joe Ironside,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
 2025/26,158,66015,Joe Ironside,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,66015,Joe Ironside,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,63609,Connor Jennings,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,1,0,0
 2025/26,158,63609,Connor Jennings,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,63609,Connor Jennings,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20596,6 +20601,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,63609,Connor Jennings,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,63609,Connor Jennings,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
 2025/26,158,63609,Connor Jennings,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,63609,Connor Jennings,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,171217,Jayden Joseph,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,0,0
 2025/26,158,171217,Jayden Joseph,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
 2025/26,158,171217,Jayden Joseph,7908,N Forest U21,tpg946524,70,Football League Trophy,H,2025-09-09,2,2,0,0,0
@@ -20604,6 +20610,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,171217,Jayden Joseph,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,171217,Jayden Joseph,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
 2025/26,158,171217,Jayden Joseph,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,171217,Jayden Joseph,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,136089,Nohan Kenneh,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,1,0
 2025/26,158,136089,Nohan Kenneh,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,136089,Nohan Kenneh,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20613,6 +20620,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,136089,Nohan Kenneh,2737,Walsall,tpg937432,4,Football League Two,A,2025-09-20,2,4,0,0,0
 2025/26,158,136089,Nohan Kenneh,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,136089,Nohan Kenneh,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
+2025/26,158,136089,Nohan Kenneh,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,58118,Jason Lowe,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,58118,Jason Lowe,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,58118,Jason Lowe,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
@@ -20628,11 +20636,13 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,78791,Luke McGee,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,78791,Luke McGee,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
 2025/26,158,78791,Luke McGee,1871,Notts Co,tpg937317,4,Football League Two,H,2025-08-30,1,2,0,1,0
+2025/26,158,69101,Aaron McGowan,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,15110,Joe Murphy,4880,Salford,tpg937347,4,Football League Two,A,2025-09-06,1,3,0,0,0
 2025/26,158,15110,Joe Murphy,1824,Newport Co,tpg937384,4,Football League Two,H,2025-09-13,1,1,0,1,0
 2025/26,158,15110,Joe Murphy,2737,Walsall,tpg937432,4,Football League Two,A,2025-09-20,2,4,0,0,0
 2025/26,158,15110,Joe Murphy,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,15110,Joe Murphy,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,1,0
+2025/26,158,15110,Joe Murphy,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,88887,Cameron Norman,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,88887,Cameron Norman,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,88887,Cameron Norman,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,1,0
@@ -20646,6 +20656,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,88887,Cameron Norman,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,88887,Cameron Norman,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,1,0,0
 2025/26,158,88887,Cameron Norman,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,88887,Cameron Norman,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,117422,Lee O'Connor,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,117422,Lee O'Connor,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,117422,Lee O'Connor,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20666,6 +20677,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,89447,Omari Patrick,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,89447,Omari Patrick,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,1,0,0
 2025/26,158,89447,Omari Patrick,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,89447,Omari Patrick,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,100535,Harvey Saunders,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,55835,Richard Smallwood,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,55835,Richard Smallwood,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
@@ -20680,6 +20692,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,55835,Richard Smallwood,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,55835,Richard Smallwood,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
 2025/26,158,55835,Richard Smallwood,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,55835,Richard Smallwood,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,75652,Nathan Smith,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,75652,Nathan Smith,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,75652,Nathan Smith,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20693,6 +20706,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,75652,Nathan Smith,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,75652,Nathan Smith,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,1,0,0
 2025/26,158,75652,Nathan Smith,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,75652,Nathan Smith,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,171213,Sol Solomon,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,1,0
 2025/26,158,171213,Sol Solomon,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,171213,Sol Solomon,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
@@ -20701,6 +20715,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,171213,Sol Solomon,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,171213,Sol Solomon,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
 2025/26,158,171213,Sol Solomon,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,0,0,0
+2025/26,158,171213,Sol Solomon,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
 2025/26,158,76981,Jordan Turnbull,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,76981,Jordan Turnbull,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,76981,Jordan Turnbull,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
@@ -20723,3 +20738,4 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,142753,Charlie Whitaker,483,Cambridge U,tpg937472,4,Football League Two,H,2025-09-27,0,0,0,0,0
 2025/26,158,142753,Charlie Whitaker,335,Bromley,tpg937480,4,Football League Two,A,2025-10-04,3,3,0,0,0
 2025/26,158,142753,Charlie Whitaker,392,Barrow,tpg946541,70,Football League Trophy,A,2025-10-07,2,1,2,0,0
+2025/26,158,142753,Charlie Whitaker,344,Barnet,tpg937522,4,Football League Two,H,2025-10-11,0,2,0,0,0
