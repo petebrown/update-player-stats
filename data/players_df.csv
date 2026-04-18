@@ -20579,6 +20579,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,133368,Ethan Bristow,4880,Salford,tpg938178,4,Football League Two,H,2026-01-31,0,2,0,0,0
 2025/26,158,133368,Ethan Bristow,2519,Swindon,tpg938520,4,Football League Two,H,2026-03-21,0,1,0,0,0
 2025/26,158,133368,Ethan Bristow,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,133368,Ethan Bristow,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,71332,Patrick Brough,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,71332,Patrick Brough,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,1,0
 2025/26,158,71332,Patrick Brough,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20625,6 +20626,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,71332,Patrick Brough,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,1,0
 2025/26,158,71332,Patrick Brough,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,71332,Patrick Brough,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,71332,Patrick Brough,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,126162,Josh Davison,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,126162,Josh Davison,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,126162,Josh Davison,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20679,6 +20681,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,70469,Kristian Dennis,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,70469,Kristian Dennis,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,70469,Kristian Dennis,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,1,0
+2025/26,158,70469,Kristian Dennis,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,1,0
 2025/26,158,210101,Max Dickov,1098,Gillingham,tpg938205,4,Football League Two,A,2026-02-07,1,2,0,0,0
 2025/26,158,210101,Max Dickov,649,Crawley,tpg938248,4,Football League Two,H,2026-02-14,2,0,0,0,0
 2025/26,158,210101,Max Dickov,42,Accrington,tpg938274,4,Football League Two,H,2026-02-17,0,1,0,0,0
@@ -20716,6 +20719,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,81221,Sam Finley,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,81221,Sam Finley,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,81221,Sam Finley,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,1,1,0
+2025/26,158,81221,Sam Finley,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,1,0
 2025/26,158,182818,Taylan Harris,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,182818,Taylan Harris,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,182818,Taylan Harris,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20842,6 +20846,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,171217,Jayden Joseph,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,171217,Jayden Joseph,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,171217,Jayden Joseph,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,171217,Jayden Joseph,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,1,0,0
 2025/26,158,136089,Nohan Kenneh,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,1,0
 2025/26,158,136089,Nohan Kenneh,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,136089,Nohan Kenneh,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -20876,6 +20881,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,136089,Nohan Kenneh,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,136089,Nohan Kenneh,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,136089,Nohan Kenneh,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,136089,Nohan Kenneh,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,1,0
 2025/26,158,58118,Jason Lowe,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,58118,Jason Lowe,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,58118,Jason Lowe,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
@@ -20907,6 +20913,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,74282,Marko Marosi,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,74282,Marko Marosi,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,74282,Marko Marosi,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,1,0
+2025/26,158,74282,Marko Marosi,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,78791,Luke McGee,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,78791,Luke McGee,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,78791,Luke McGee,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
@@ -21025,6 +21032,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,117422,Lee O'Connor,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,117422,Lee O'Connor,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,117422,Lee O'Connor,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,117422,Lee O'Connor,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,143884,Zech Obiero,1098,Gillingham,tpg938205,4,Football League Two,A,2026-02-07,1,2,0,0,0
 2025/26,158,143884,Zech Obiero,649,Crawley,tpg938248,4,Football League Two,H,2026-02-14,2,0,1,0,0
 2025/26,158,143884,Zech Obiero,42,Accrington,tpg938274,4,Football League Two,H,2026-02-17,0,1,0,0,0
@@ -21037,6 +21045,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,143884,Zech Obiero,2519,Swindon,tpg938520,4,Football League Two,H,2026-03-21,0,1,0,0,0
 2025/26,158,143884,Zech Obiero,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,143884,Zech Obiero,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,143884,Zech Obiero,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,89447,Omari Patrick,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,89447,Omari Patrick,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,1,0,0
 2025/26,158,89447,Omari Patrick,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,1,0,0
@@ -21075,6 +21084,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,89447,Omari Patrick,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,89447,Omari Patrick,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,89447,Omari Patrick,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,89447,Omari Patrick,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,164631,James Plant,4880,Salford,tpg938178,4,Football League Two,H,2026-01-31,0,2,0,0,0
 2025/26,158,164631,James Plant,1098,Gillingham,tpg938205,4,Football League Two,A,2026-02-07,1,2,0,0,0
 2025/26,158,164631,James Plant,649,Crawley,tpg938248,4,Football League Two,H,2026-02-14,2,0,0,1,0
@@ -21167,6 +21177,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,75652,Nathan Smith,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,75652,Nathan Smith,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,75652,Nathan Smith,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,75652,Nathan Smith,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,1,0
 2025/26,158,171213,Sol Solomon,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,1,0
 2025/26,158,171213,Sol Solomon,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
 2025/26,158,171213,Sol Solomon,649,Crawley,tpg937263,4,Football League Two,A,2025-08-23,2,0,0,0,0
@@ -21191,6 +21202,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,172198,William Tamen,4880,Salford,tpg938178,4,Football League Two,H,2026-01-31,0,2,0,0,0
 2025/26,158,172198,William Tamen,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,1,0
 2025/26,158,172198,William Tamen,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,1,0
+2025/26,158,172198,William Tamen,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,76981,Jordan Turnbull,612,Colchester,tpg937140,4,Football League Two,A,2025-08-02,1,1,0,0,0
 2025/26,158,76981,Jordan Turnbull,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,76981,Jordan Turnbull,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,0,0,0
@@ -21218,6 +21230,7 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,144980,Lewis Warrington,1222,Harrogate,tpg938484,4,Football League Two,H,2026-03-17,0,3,0,0,0
 2025/26,158,67179,Ryan Watson,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,67179,Ryan Watson,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,67179,Ryan Watson,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,142753,Charlie Whitaker,2325,Shrewsbury,tpg937185,4,Football League Two,H,2025-08-09,4,0,0,0,0
 2025/26,158,142753,Charlie Whitaker,1098,Gillingham,tpg937218,4,Football League Two,H,2025-08-16,1,1,0,0,0
 2025/26,158,142753,Charlie Whitaker,427,Burton,tpg938964,60,English League Cup,H,2025-08-19,1,1,1,0,0
@@ -21261,7 +21274,9 @@ season,season_id,sb_player_id,player_name,sb_opposition_id,opposition_team,sb_ga
 2025/26,158,142753,Charlie Whitaker,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,142753,Charlie Whitaker,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,142753,Charlie Whitaker,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,142753,Charlie Whitaker,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
 2025/26,158,70918,Kaiyne Woolery,2519,Swindon,tpg938520,4,Football League Two,H,2026-03-21,0,1,0,0,0
 2025/26,158,70918,Kaiyne Woolery,2325,Shrewsbury,tpg938591,4,Football League Two,A,2026-04-03,0,1,0,0,0
 2025/26,158,70918,Kaiyne Woolery,612,Colchester,tpg938630,4,Football League Two,H,2026-04-06,0,1,0,0,0
 2025/26,158,70918,Kaiyne Woolery,656,Chesterfield,tpg938646,4,Football League Two,A,2026-04-11,1,1,0,0,0
+2025/26,158,70918,Kaiyne Woolery,388,Bristol R,tpg938688,4,Football League Two,H,2026-04-18,1,2,0,0,0
